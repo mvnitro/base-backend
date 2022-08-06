@@ -44,7 +44,7 @@ packages:
     source: hosted
     version: "1.16.0"
   commons_core:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       path: "packages/commons/commons-core"
       relative: true
